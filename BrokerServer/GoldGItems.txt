@@ -1,0 +1,3 @@
+Harddisk	5	900
+headset	5	800
+bluetooth	6	1000

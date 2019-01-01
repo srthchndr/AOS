@@ -1,0 +1,7 @@
+james		123abc		1200
+gary		garyabc		600
+smith		password	300
+kristen		1q2w3e		1500
+hardin		000OOO		7500
+jerry		zxcqwe		144
+dak		123qwe 		6555

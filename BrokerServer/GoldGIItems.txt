@@ -1,0 +1,3 @@
+monitor		7	550
+cpu		15	700
+laptop		8	660

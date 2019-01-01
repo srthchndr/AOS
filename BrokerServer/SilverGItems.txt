@@ -1,0 +1,3 @@
+Pendrive	20	200
+Mouse	3	340
+Keyboard	15	400
